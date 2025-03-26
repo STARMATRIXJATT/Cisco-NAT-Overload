@@ -3,8 +3,7 @@
 ## 📌 Overview
 This project demonstrates the configuration of **NAT Overload (PAT)** in **Cisco Packet Tracer**. NAT Overload allows multiple internal devices to share a single public IP for internet access.
 
-## 📁 Network Topology
-![Network Diagram](Diagrams/network_topology.png)
+
 
 ### 📌 IP Scheme:
 | Device      | Interface       | IP Address        |
